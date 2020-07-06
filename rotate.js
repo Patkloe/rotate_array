@@ -3,3 +3,4 @@ var tab = [1,2,3,4,5,6,7];
 tab.unshift(tab.pop());
 return tab;
 }
+console.log(rotate_array());
